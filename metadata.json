@@ -1,0 +1,6 @@
+{
+  "name": "ملخص المحاضرات الذكي - Lecture Summarizer",
+  "description": "منصة ذكية متكاملة بإدارة الإشعاعية فاطم لتلخيص محاضرات وملفات الـ PDF، بنك الأسئلة، معجم المصطلحات، بتصميم غسق السماء البنفسجي ومتوافقة مع جميع الأجهزة وجاهزة لـ Netlify",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
